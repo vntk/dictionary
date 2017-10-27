@@ -5,6 +5,8 @@ Vietnamese Dictionary for Node
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](./LICENSE)
 [![npm version](https://img.shields.io/npm/v/@vntk/dictionary.svg?style=flat)](https://www.npmjs.com/package/@vntk/dictionary)
 [![downloads](https://img.shields.io/npm/dm/@vntk/dictionary.svg)](https://www.npmjs.com/package/@vntk/dictionary)
+[![Travis](https://travis-ci.org/vntk/dictionary.svg?branch=master)](https://travis-ci.org/vntk/dictionary)
+
 
 # Installation
 
